@@ -1,4 +1,6 @@
-# Beginner ML Project: Iris Classification
+# FlowerClassifier
+
+Python ML project: Iris flower classification with Random Forest and matplotlib visualization.
 
 This project demonstrates a simple machine learning classification task using the famous Iris dataset. It uses scikit-learn to build a Random Forest classifier that predicts the species of iris flowers based on their measurements.
 
